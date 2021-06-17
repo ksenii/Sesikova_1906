@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/ksenii/Sesikova_1906.svg?branch=master)](https://travis-ci.com/ksenii/Sesikova_1906)
+[![Build Status](https://travis-ci.com/ksenii/Sesikova_1906.svg?branch=dev)](https://travis-ci.com/ksenii/Sesikova_1906)
