@@ -2,5 +2,5 @@ language: python
 python:
   - 3.8
 script:
-  -echo "test is OK"
+  - echo "test is OK"
 
